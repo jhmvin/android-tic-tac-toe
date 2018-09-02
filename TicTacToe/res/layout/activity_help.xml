@@ -1,0 +1,131 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/pnl_help"
+    android:background="@drawable/animation_list"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:scrollbars="none"
+    tools:context="com.melvin_joemar.perello_delacruz.Help" >
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:src="@drawable/helpme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#20FFFFFF"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="20dp"
+            android:textColor="#90FFFFFF"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#20FFFFFF"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="20dp"
+            android:text="Hey gamer! Welcome to Tic Tac Toe!
+Let&apos;s know the rule behind the ancient game of all ages."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textStyle="italic"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#20FFFFFF"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="20dp"
+            android:text="Here, we have the Easy mode and the Hard mode. Assess yoursef well before choosing."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textStyle="italic"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#20FFFFFF"
+            android:gravity="left"
+            android:paddingTop="20dp"
+            android:text="Single Player"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="italic"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#20FFFFFF"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="The game will provide three(3) squares each with nine(9) boxes, simbolizes 3 levels.
+10 points for every three same symbols in a row, no matter if horizontal, vertical or diagonal combination.
+First player will be O and the second as usual will be the X.
+This is a 3 minute game, think wisely for every move."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textStyle="italic"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#20FFFFFF"
+            android:gravity="left"
+            android:paddingTop="20dp"
+            android:text="Multiplayer"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="italic"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#20FFFFFF"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Same rules as stated above but the difference, your with a friend.
+Enjoy the game were billions of people have played over the course of history!"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#90FFFFFF"
+            android:textStyle="italic"
+            android:typeface="sans" />
+    </LinearLayout>
+
+</ScrollView>
