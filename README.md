@@ -10,18 +10,18 @@ This was the second application I created in my *Android Development* class back
 
 
 **Home**
-[![Image](https://raw.githubusercontent.com/melvinperello/polaris-java-library/master/sample-image-1.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
+[![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-1.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
 
 **Gameplay**
-[![Image](https://raw.githubusercontent.com/melvinperello/polaris-java-library/master/sample-image-2.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
+[![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-2.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
 
 **High Scores**
-[![Image](https://raw.githubusercontent.com/melvinperello/polaris-java-library/master/sample-image-3.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
+[![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-3.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
 
-You can download a copy of the APK here [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://raw.githubusercontent.com/melvinperello/polaris-java-library/master/TicTacToe.apk)
+You can download a copy of the APK here [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/TicTacToe.apk)
 
 
 *Summer, 2017*
