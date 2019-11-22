@@ -1,5 +1,5 @@
 # Tic Tac Toe
----
+
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT) [![Open Source Software](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red)](https://opensource.org/licenses/MIT)
 
@@ -12,15 +12,18 @@ This was the second application I created in my *Android Development* class back
 
 **Home**
 
+
 [![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-1.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
 
 **Gameplay**
 
+
 [![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-2.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
 
 **High Scores**
+
 
 [![Image](https://raw.githubusercontent.com/melvinperello/android-tic-tac-toe/master/sample-image-3.jpg)](https://github.com/melvinperello/android-tic-tac-toe)
 
